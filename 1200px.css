@@ -1,0 +1,70 @@
+
+
+
+@media screen and (max-width:1200px) {
+
+
+    /* Navbar  */
+    
+    .logo h1 {
+        font-size: 25px;
+    }
+    
+    .nav-list li {
+        font-size: 15px;
+    }
+    
+    .call-us img {
+        height: 70px;
+    }
+    .call-us div {
+        font-size: 15px;
+    }
+    
+    /* Main-Section  */
+    
+    .main {
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    
+    
+    
+    /* Left-Section  */
+    
+    .left h1 {
+        font-size: 50px;  
+    }
+    
+    
+    
+    /* Right-Section  */
+    
+    .card {
+        padding: 15px;
+        font-size: 22px;
+    }
+    
+    .puzzle img {
+        height: 25px;
+        width: 25px;
+    }
+    
+    
+    .puzzle{
+        top: 10px;
+        right: 100px;
+        width: 250px;
+    }
+    
+    .bulb{
+        top: 70px;
+        right:350px;
+        width: 250px;
+    }
+    
+    .bulb img {
+        height: 40px;
+    }
+    }
